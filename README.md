@@ -8,15 +8,6 @@ g++ -std=c++11 CountDots.cpp `pkg-config --libs --cflags opencv` -o CountDiceDot
 After compiling, to run:
 ./CountDiceDots
 
-# Results Obtained
-![](images/Output1.png)
-![](images/Output2.png)
-![](images/Output3.png)
-![](images/Output4.png)
-![](images/Output5.png)
-![](images/Output6.png)
-
-
 
 
 
